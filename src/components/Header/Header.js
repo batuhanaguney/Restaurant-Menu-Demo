@@ -11,9 +11,9 @@ function Header() {
                     <h2>Restaurant Menü</h2>
                 </div>
 
-                {/* <div className="header_right">
+                <div className="header_right">
                 <button type="button" onClick={ refreshPage }> <span>Refresh Page</span> </button> 
-                </div> */}
+                </div> 
 
         </div>
     )
